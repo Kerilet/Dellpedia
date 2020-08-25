@@ -1,0 +1,2 @@
+# Dellpedia
+não
