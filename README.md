@@ -1,3 +1,4 @@
 # Dellpedia
 não
-sim
+não
+não
