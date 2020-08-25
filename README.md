@@ -1,2 +1,3 @@
 # Dellpedia
 não
+sim
